@@ -45,8 +45,8 @@ You should install this HTAP benchmark project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/graph-database-benchmark.git
-cd graph-database-benchmark
+git clone https://github.com/BingTong0/graph-transaction-benchmark
+cd graph-transaction-benchmark
 
 # Build the project
 mvn clean install
